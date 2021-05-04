@@ -25,9 +25,11 @@ Due to timeconstrain, the display feature, delete feature and modify feature are
   * No test cases added
   * CI CD Pipeline is not enabled. Again, This is because of time constrain. My previous CI CD project setup is [here](https://github.com/arunprakashpj/Deploying-CICD-Pipeline-in-Azure) 
 ## Screenshots
+![Screenshot](https://github.com/arunprakashpj/warehouse-management/blob/main/Screenshots/get-request.PNG)
 
 ![Screenshot](https://github.com/arunprakashpj/warehouse-management/blob/main/Screenshots/buy-request.PNG)
 
 ![Screenshot](https://github.com/arunprakashpj/warehouse-management/blob/main/Screenshots/results.PNG)
 
-![Screenshot](https://github.com/arunprakashpj/warehouse-management/blob/main/Screenshots/get-request.PNG)
+
+
