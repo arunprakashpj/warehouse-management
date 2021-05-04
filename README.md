@@ -36,6 +36,6 @@ Due to timeconstrain, the display feature, delete feature and modify feature are
  * NoSQL DB Connection
  * Proper UI to display the results
  * Isoalted logic for Stock computation
- * Unit Testcase 
+ * Unit Testcases 
  * Integration Test cases
 
