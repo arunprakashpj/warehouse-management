@@ -32,4 +32,10 @@ Due to timeconstrain, the display feature, delete feature and modify feature are
 ![Screenshot](https://github.com/arunprakashpj/warehouse-management/blob/main/Screenshots/results.PNG)
 
 
+## Improvements
+ * NoSQL DB Connection
+ * Proper UI to display the results
+ * Isoalted logic for Stock computation
+ * Unit Testcase 
+ * Integration Test cases
 
