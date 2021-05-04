@@ -12,7 +12,7 @@ Due to timeconstrain, the display feature, delete feature and modify feature are
 1. Clone the project and navigate to the location
 2. npm install
 3. Use postman to hit the endpoint
-4. To view the inventory,  hit the end point ``/view/inventory``
+4. To view the inventory,  hit the end point ``/view/inventory/id``
 5. To view the products-info,  hit the end point ``/view/products-info``
 6. To buy the product, hit the end point ``/buy-product``
 7. To view the product stock, hit the end point ``/view/products-stock``
