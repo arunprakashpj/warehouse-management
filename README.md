@@ -18,12 +18,6 @@ Due to timeconstrain, the display feature, delete feature and modify feature are
 7. To view the product stock, hit the end point ``/view/products-stock``
 
 
-
-## Limitations
-  * No real DB Connection
-  * Completely rely on Rest API Calls
-  * No test cases added
-  * CI CD Pipeline is not enabled. Again, This is because of time constrain. My previous CI CD project setup is [here](https://github.com/arunprakashpj/Deploying-CICD-Pipeline-in-Azure) 
 ## Screenshots
 ![Screenshot](https://github.com/arunprakashpj/warehouse-management/blob/main/Screenshots/get-request.PNG)
 
@@ -33,9 +27,11 @@ Due to timeconstrain, the display feature, delete feature and modify feature are
 
 
 ## Improvements
- * NoSQL DB Connection
+ * Setup dynamodb as a database
  * Proper UI to display the results
  * Isoalted logic for Stock computation
  * Unit Testcases 
  * Integration Test cases
+ * No test cases added
+ * CI CD Pipeline is not enabled. Again, This is because of time constrain. My previous CI CD project setup is [here](https://github.com/arunprakashpj/Deploying-CICD-Pipeline-in-Azure) 
 
