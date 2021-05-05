@@ -29,7 +29,7 @@ Due to timeconstrain, the display feature, delete feature and modify feature are
 ## Improvements
  * Setup dynamodb as a database
  * Proper UI to display the results
- * Isoalted logic for Stock computation
+ * Isolate logic for Stock computation
  * Unit Testcases 
  * Integration Test cases
  * No test cases added
